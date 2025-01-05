@@ -167,7 +167,7 @@
 }
 
 .scrollbar-outer > .scroll-element {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .scrollbar-outer > .scroll-element div {
@@ -260,7 +260,7 @@
 
 .scrollbar-macosx > .scroll-element .scroll-element_track { display: none; }
 .scrollbar-macosx > .scroll-element .scroll-bar {
-    background-color: #6C6E71;
+    background-color: #FFFFFF;
     display: block;
 
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
