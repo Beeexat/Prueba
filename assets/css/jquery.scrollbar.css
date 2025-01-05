@@ -576,7 +576,7 @@
     border-radius: 12px;
 }
 .scrollbar-dynamic > .scroll-element .scroll-element_size {
-    background-color: #cccccc;
+    background-color: #0a0a0a;
     opacity: 0;
 
     -webkit-border-radius: 12px;
@@ -591,7 +591,7 @@
 }
 
 .scrollbar-dynamic > .scroll-element .scroll-bar {
-    background-color: #6c6e71;
+    background-color: #0a0a0a;
 
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
@@ -705,7 +705,7 @@
 }
 
 .scrollbar-chrome > .scroll-element {
-    background-color: #ffffff;
+    background-color: #0a0a0a;
 }
 
 .scrollbar-chrome > .scroll-element div {
@@ -719,7 +719,7 @@
 .scrollbar-chrome > .scroll-element .scroll-element_outer {}
 
 .scrollbar-chrome > .scroll-element .scroll-element_track {
-    background: #f1f1f1;
+    background: #0a0a0a;
     border: 1px solid #dbdbdb;
 }
 
