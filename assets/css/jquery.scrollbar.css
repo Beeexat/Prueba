@@ -44,8 +44,8 @@
 }
 
 .scroll-textarea {
-    border: 1px solid #cccccc;
-    border-top-color: #999999;
+    border: 1px solid #FFFFFF;
+    border-top-color: #FFFFFF;
 }
 .scroll-textarea > .scroll-content {
     overflow: hidden !important;
@@ -260,7 +260,7 @@
 
 .scrollbar-macosx > .scroll-element .scroll-element_track { display: none; }
 .scrollbar-macosx > .scroll-element .scroll-bar {
-    background-color: #FFFFFF;
+    background-color: #000000;
     display: block;
 
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -338,7 +338,7 @@
 }
 
 .scrollbar-light > .scroll-element {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .scrollbar-light > .scroll-element div {
@@ -447,7 +447,7 @@
 }
 
 .scrollbar-rail > .scroll-element {
-    background-color: 030303;
+    background-color: #000000;
 }
 
 .scrollbar-rail > .scroll-element div {
@@ -459,12 +459,12 @@
 }
 
 .scrollbar-rail > .scroll-element .scroll-element_size {
-    background-color: #999;
+    background-color: #000000;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
 .scrollbar-rail > .scroll-element .scroll-element_outer:hover .scroll-element_size {
-    background-color: #666;
+    background-color: #000000;
     background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -487,7 +487,7 @@
 }
 
 .scrollbar-rail > .scroll-element .scroll-bar {
-    background-color: 030303;
+    background-color: #000000;
 
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -740,7 +740,7 @@
 }
 
 .scrollbar-chrome > .scroll-element .scroll-bar {
-    background-color: #080808;
+    background-color: #000000;
     border: 1px solid #bdbdbd;
     cursor: default;
 
@@ -750,12 +750,12 @@
 }
 
 .scrollbar-chrome > .scroll-element .scroll-bar:hover {
-    background-color: 030303;
+    background-color: #000000;
     border-color: #a9a9a9;
 }
 
 .scrollbar-chrome > .scroll-element.scroll-draggable .scroll-bar {
-    background-color: 030303;
+    background-color: #000000;
     border-color: #7e7e7e;
 }
 
