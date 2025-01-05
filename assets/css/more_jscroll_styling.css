@@ -45,7 +45,7 @@
  
 .scroll-textarea {
     border: 1px solid #cccccc;
-    border-top-color: #999999;
+    border-top-color: #FFFFFF;
 }
 .scroll-textarea > .scroll-content {
     overflow: hidden !important;
@@ -85,7 +85,7 @@
 }
  
 .scrollbar-outer > .scroll-element {
-    background-color: #ffffff;
+    background-color: #000000;
 }
  
 .scrollbar-outer > .scroll-element div {
